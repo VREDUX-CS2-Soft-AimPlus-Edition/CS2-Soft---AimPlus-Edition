@@ -82,13 +82,6 @@ No telemetry is collected. The soft runs locally, and your data stays with you.
 
 ---
 
-### 🔎 SEO Keywords
+## 🔎 SEO Keywords
 
-`CS2 soft`, `VREDUX CS2`, `legit CS2 bot`, `CS2 ESP`, `triggerbot for CS2`,  
-`aimbot configuration`, `stealth CS2 soft`, `undetected CS2 tool`, `private CS2 bot`,  
-`smart aim assist CS2`, `low recoil CS2 soft`, `anti-detection CS2`,  
-`FPS improvement soft`, `legit play support CS2`, `vac-safe CS2 bot`, `customizable CS2 aim system`,  
-`wall ESP CS2`, `auto-shoot system CS2`, `pro aim assist CS2`, `silent injection soft CS2`,  
-`CS2 tactical bot`, `configurable CS2 overlay`, `optimized CS2 visuals`, `dynamic CS2 trigger system`,  
-`advanced aiming logic CS2`, `lightweight CS2 overlay`, `legit enhancement tool CS2`, `low-impact aim assistant`,  
-`overlay-only CS2 utility`, `non-intrusive bot CS2`
+cs2, cs 2, counter strike 2, cs go 2, counter strike 2 download, counter strike global offensive 2, counter strike go 2, counter strike2, cs g2, dust2, cs2 setup guide, cs2 launcher, cs2 offline installer, cs2 download assistant, cs2 config tool, cs2 boost fps, cs2 performance optimizer, cs2 resolution fix, cs2 graphics settings, cs2 map selector, cs2 mod manager, cs2 skin injector, cs2 custom hud, cs2 visual tweaks, cs2 matchmaking helper
